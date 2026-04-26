@@ -1,4 +1,4 @@
-# ZHẼNÙ API 🤟
+# ZHẼNÙ API
 
 API FastAPI de reconnaissance de langue des signes en temps réel.  
 Reçoit des keypoints depuis l'app **ZHẼNÙ** (Flutter), prédit le signe via un modèle BiLSTM.
