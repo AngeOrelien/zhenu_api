@@ -1,2 +1,2 @@
 # zhenu_api
-AI API for Sign Language Communication
+AI API for Sign Language Communication, Translation and Learning
